@@ -1,0 +1,27 @@
+[
+	{
+		"id": 1,
+		"name": "Alice Johnson",
+		"username": "@alicej"
+	},
+	{
+		"id": 2,
+		"name": "Ben Thompson",
+		"username": "@benthompson"
+	},
+	{
+		"id": 3,
+		"name": "Carla Martinez",
+		"username": "@carlam"
+	},
+	{
+		"id": 4,
+		"name": "Daniel Kim",
+		"username": "@danielk"
+	},
+	{
+		"id": 5,
+		"name": "Elena Rossi",
+		"username": "@elenarossi"
+	}
+]
