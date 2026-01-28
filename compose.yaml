@@ -6,3 +6,11 @@ services:
     volumes:
       - .:/dockerapp
       - /dockerapp/node_modules
+
+  backend:
+    build: ./backend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./backend:/dockerapp
+      - /dockerapp/node_modules
