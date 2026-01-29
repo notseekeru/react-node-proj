@@ -1,11 +1,9 @@
-import exampleData from '../exampleData.json'
+import axios from 'axios'
 
 function Users() {
     return (
         <>
-        <div>
-            {exampleData.map(x => <p>{x.id} - {x.name} //   {x.username}</p>)}
-        </div>
+
         </>
     )
 }
